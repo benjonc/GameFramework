@@ -42,11 +42,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameFramework\Abstract\AGameClient.cs" />
+    <Compile Include="GameFramework\Abstract\AGameData.cs" />
+    <Compile Include="GameFramework\Abstract\AGameHelper.cs" />
+    <Compile Include="GameFramework\Abstract\AGameInput.cs" />
+    <Compile Include="GameFramework\Abstract\AGameResource.cs" />
+    <Compile Include="GameFramework\Abstract\AGameSystem.cs" />
+    <Compile Include="GameFramework\Abstract\AGameView.cs" />
+    <Compile Include="GameFramework\GameClient.cs" />
+    <Compile Include="GameFramework\Interface\IEnter.cs" />
+    <Compile Include="GameFramework\Interface\IExit.cs" />
+    <Compile Include="GameFramework\Interface\IInit.cs" />
+    <Compile Include="GameFramework\Interface\IInstance.cs" />
+    <Compile Include="GameFramework\Interface\ILoadRes.cs" />
+    <Compile Include="GameFramework\Interface\IStart.cs" />
+    <Compile Include="GameFramework\Interface\IUpdate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
