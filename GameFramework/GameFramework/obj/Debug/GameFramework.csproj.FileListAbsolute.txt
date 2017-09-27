@@ -1,0 +1,7 @@
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\bin\Debug\GameFramework.exe.config
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\bin\Debug\GameFramework.exe
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\bin\Debug\GameFramework.pdb
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\obj\Debug\GameFramework.csprojResolveAssemblyReference.cache
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\obj\Debug\GameFramework.csproj.CoreCompileInputs.cache
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\obj\Debug\GameFramework.exe
+D:\CodeSpace\GitSpace\GameFramework\GameFramework\GameFramework\obj\Debug\GameFramework.pdb

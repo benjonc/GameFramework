@@ -49,7 +49,12 @@
     <Compile Include="GameFramework\Abstract\AGameResource.cs" />
     <Compile Include="GameFramework\Abstract\AGameSystem.cs" />
     <Compile Include="GameFramework\Abstract\AGameView.cs" />
-    <Compile Include="GameFramework\GameClient.cs" />
+    <Compile Include="GameFramework\Implement\GameClient.cs" />
+    <Compile Include="GameFramework\Implement\GameData.cs" />
+    <Compile Include="GameFramework\Implement\GameHelper.cs" />
+    <Compile Include="GameFramework\Implement\GameInput.cs" />
+    <Compile Include="GameFramework\Implement\GameResource.cs" />
+    <Compile Include="GameFramework\Implement\GameView.cs" />
     <Compile Include="GameFramework\Interface\IEnter.cs" />
     <Compile Include="GameFramework\Interface\IExit.cs" />
     <Compile Include="GameFramework\Interface\IInit.cs" />
